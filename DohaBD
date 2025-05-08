@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Md Shamsudduha | Digital Portfolio</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            background-color: #f7f9fc;
+            color: #333;
+        }
+        header {
+            background-color: #1d3557;
+            color: white;
+            padding: 1.5rem;
+            text-align: center;
+        }
+        section {
+            padding: 2rem;
+            max-width: 800px;
+            margin: auto;
+        }
+        h2 {
+            color: #1d3557;
+            border-bottom: 2px solid #1d3557;
+            padding-bottom: 0.5rem;
+        }
+        .contact a {
+            color: #1d3557;
+            text-decoration: none;
+        }
+        ul {
+            padding-left: 1.5rem;
+        }
+        footer {
+            background-color: #1d3557;
+            color: white;
+            text-align: center;
+            padding: 1rem;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Md Shamsudduha</h1>
+        <p>Genetics & Molecular Biology | Researcher | PhD Aspirant</p>
+    </header>
+
+    <section class="contact">
+        <h2>Contact</h2>
+        <p>Email: <a href="mailto:shamsuddoha.bio@gmail.com">shamsuddoha.bio@gmail.com</a></p>
+        <p>Phone: +880-1796253901</p>
+        <p>LinkedIn: <a href="https://linkedin.com/in/md-shamsuddoha">linkedin.com/in/md-shamsuddoha</a></p>
+        <p>GitHub: <a href="https://github.com/yourusername">github.com/yourusername</a></p>
+    </section>
+
+    <section>
+        <h2>Education</h2>
+        <ul>
+            <li><strong>MS in Genetics and Molecular Biology</strong>, University of Dhaka (2024) — CGPA: 3.75</li>
+            <li><strong>BS in Zoology</strong>, University of Dhaka (2023) — CGPA: 3.61</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Research Experience</h2>
+        <ul>
+            <li><strong>Research Assistant</strong> — Genetic studies on Drosophila, population genetics of spiders, shrimp NGS, and nanoparticle-based DNA extraction/delivery (2024–2025).</li>
+            <li><strong>Research Student</strong> — MS Thesis on salt stress and memory formation via Gad1 gene expression in Drosophila (2023–2024).</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Skills</h2>
+        <ul>
+            <li><strong>Techniques</strong>: PCR, RT-PCR, RNA/DNA Extraction, Gel Electrophoresis</li>
+            <li><strong>Bioinformatics</strong>: BLAST, MEGA, FinchTV, BioEdit</li>
+            <li><strong>Software</strong>: R, ImageJ, MS Office, Mendeley</li>
+            <li><strong>Languages</strong>: English (Fluent), Bangla (Native), Hindi (Fluent)</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Publications</h2>
+        <ul>
+            <li>"Morphological and molecular identification of the cat flea <i>Ctenocephalides felis</i> from Bangladesh." <i>Journal of Advanced Veterinary and Animal Research</i>, 2025. <a href="http://doi.org/10.5455/javar.2025.l894">DOI</a></li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Presentations</h2>
+        <ul>
+            <li>"Molecular identification and phylogenetic analysis of a mole cricket" – BCSIR Congress 2023 (Oral)</li>
+            <li>"Effect of salt stress on the Gad1 gene" – 23rd SCA Conference 2024 (Poster)</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Awards & Certifications</h2>
+        <ul>
+            <li>National Science and Technology Fellowship (2023)</li>
+            <li>Champion, National Zoology Olympiad (2022)</li>
+            <li>Certified in Genetics, Evolution, DNA Decoding, and Research Design via Coursera/Udemy</li>
+        </ul>
+    </section>
+
+    <footer>
+        &copy; 2025 Md Shamsudduha. All rights reserved.
+    </footer>
+</body>
+</html>
